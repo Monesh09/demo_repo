@@ -1,1 +1,2 @@
-print " Hello emc"
+print "Hello emc"
+print "Errormakes clever"
